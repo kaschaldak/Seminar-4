@@ -1,0 +1,15 @@
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\bin\Debug\net6.0\a_task_1.exe
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\bin\Debug\net6.0\a_task_1.deps.json
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\bin\Debug\net6.0\a_task_1.runtimeconfig.json
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\bin\Debug\net6.0\a_task_1.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\bin\Debug\net6.0\a_task_1.pdb
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.csproj.AssemblyReference.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.AssemblyInfoInputs.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.AssemblyInfo.cs
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.csproj.CoreCompileInputs.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\refint\a_task_1.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.pdb
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\a_task_1.genruntimeconfig.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_4\a_task_1\obj\Debug\net6.0\ref\a_task_1.dll
